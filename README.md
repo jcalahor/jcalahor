@@ -11,11 +11,14 @@
 
 ---
 
-### 🦀 What I work on
+### 🦀 What I build
 
-I build the plumbing behind trading and real-time data platforms: market data servers, order matching,
-messaging over **Aeron** and **Kafka**, and distributed task processing. I've written C, C++, Java, C#, F#
-and Python professionally. These days I mostly write **Rust** and **C++**.
+I build the core of trading and real-time data systems: market data servers, order matching engines,
+low-latency messaging over **Aeron** and **Kafka**, and distributed task processing. I've shipped production
+code in C, C++, Java, C#, F# and Python. Today I work mostly in **Rust** and **C++**.
+
+> 🏛️ **Currently building:** my own exchange, written from scratch in Rust. The repo is private,
+> but I'm always happy to talk about how it's designed.
 
 - ⚡ Low-latency messaging and microservices
 - 📈 Exchange and market-data infrastructure
