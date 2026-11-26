@@ -33,6 +33,17 @@ can read.
 - 🔁 Streaming ETL and distributed job queues
 - 🖥️ Real-time UIs (egui, ratatui, websockets)
 
+### 🏢 Where I've worked
+
+<p>
+  <img src="https://img.shields.io/badge/Bank%20of%20America-E31837?style=for-the-badge&logo=bankofamerica&logoColor=white" alt="Bank of America"/>
+  <img src="https://img.shields.io/badge/Northern%20Trust-00543C?style=for-the-badge" alt="Northern Trust"/>
+  <img src="https://img.shields.io/badge/Chicago%20Trading%20Company-1B365D?style=for-the-badge" alt="Chicago Trading Company"/>
+  <img src="https://img.shields.io/badge/BMO%20Capital%20Markets-0079C1?style=for-the-badge" alt="BMO Capital Markets"/>
+  <img src="https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=activision&logoColor=white" alt="Activision"/>
+  <img src="https://img.shields.io/badge/Rothera-555555?style=for-the-badge" alt="Rothera"/>
+</p>
+
 ### 🛠️ Toolbox
 
 <p>
