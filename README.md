@@ -13,9 +13,17 @@
 
 ### 🦀 What I build
 
-I build the core of trading and real-time data systems: market data servers, order matching engines,
-low-latency messaging over **Aeron** and **Kafka**, and distributed task processing. I've shipped production
-code in C, C++, Java, C#, F# and Python. Today I work mostly in **Rust** and **C++**.
+I build the core of trading and real-time data systems, the parts that have to be fast, correct and
+always up. That means market data servers that fan out prices to many consumers, order matching engines
+that decide who trades with whom, low-latency messaging over **Aeron** and **Kafka**, and distributed task
+queues that keep work moving when machines fail.
+
+Over 24 years I've shipped production code in C, C++, Java, C#, F# and Python, from backend services and
+data pipelines to real-time front ends. Today I work mostly in **Rust** and **C++**. I like Rust because it lets
+me write systems code that is both fast and safe, and most of my recent open-source work is in it.
+
+I care about predictable latency, simple designs that are easy to operate, and code that the next engineer
+can read.
 
 > 🏛️ **Currently building:** my own exchange, written from scratch in Rust. The repo is private,
 > but I'm always happy to talk about how it's designed.
