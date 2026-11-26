@@ -35,14 +35,16 @@ can read.
 
 ### 🏢 Where I've worked
 
-<p>
-  <img src="https://img.shields.io/badge/Bank%20of%20America-E31837?style=for-the-badge&logo=bankofamerica&logoColor=white" alt="Bank of America"/>
-  <img src="https://img.shields.io/badge/Northern%20Trust-00543C?style=for-the-badge" alt="Northern Trust"/>
-  <img src="https://img.shields.io/badge/Chicago%20Trading%20Company-1B365D?style=for-the-badge" alt="Chicago Trading Company"/>
-  <img src="https://img.shields.io/badge/BMO%20Capital%20Markets-0079C1?style=for-the-badge" alt="BMO Capital Markets"/>
-  <img src="https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=activision&logoColor=white" alt="Activision"/>
-  <img src="https://img.shields.io/badge/Rothera-555555?style=for-the-badge" alt="Rothera"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120"><img src="assets/logos/bank-of-america.png" height="48" alt="Bank of America"/><br/><sub><b>Bank of America</b></sub></td>
+    <td align="center" width="120"><img src="assets/logos/northern-trust.png" height="48" alt="Northern Trust"/><br/><sub><b>Northern Trust</b></sub></td>
+    <td align="center" width="120"><img src="assets/logos/chicago-trading-company.png" height="48" alt="Chicago Trading Company"/><br/><sub><b>Chicago Trading Company</b></sub></td>
+    <td align="center" width="120"><img src="assets/logos/bmo-capital-markets.png" height="48" alt="BMO Capital Markets"/><br/><sub><b>BMO Capital Markets</b></sub></td>
+    <td align="center" width="120"><img src="assets/logos/activision.png" height="48" alt="Activision"/><br/><sub><b>Activision</b></sub></td>
+    <td align="center" width="120"><img src="assets/logos/rothera.png" height="48" alt="Rothera"/><br/><sub><b>Rothera</b></sub></td>
+  </tr>
+</table>
 
 ### 🛠️ Toolbox
 
