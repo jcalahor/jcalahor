@@ -41,7 +41,7 @@ can read.
     <td align="center" width="120"><img src="assets/logos/northern-trust.png" height="48" alt="Northern Trust"/><br/><sub><b>Northern Trust</b></sub></td>
     <td align="center" width="120"><img src="assets/logos/chicago-trading-company.png" height="48" alt="Chicago Trading Company"/><br/><sub><b>Chicago Trading Company</b></sub></td>
     <td align="center" width="120"><img src="assets/logos/bmo-capital-markets.png" height="48" alt="BMO Capital Markets"/><br/><sub><b>BMO Capital Markets</b></sub></td>
-    <td align="center" width="120"><img src="assets/logos/activision.png" height="48" alt="Activision"/><br/><sub><b>Activision</b></sub></td>
+    <td align="center" width="120"><img src="assets/logos/activision.svg" height="48" alt="Activision"/><br/><sub><b>Activision</b></sub></td>
     <td align="center" width="120"><img src="assets/logos/rothera.png" height="48" alt="Rothera"/><br/><sub><b>Rothera</b></sub></td>
   </tr>
 </table>
